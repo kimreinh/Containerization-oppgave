@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except:
+!/*.py
+!/requirements.txt
+!/Dockerfile
+!/README.md
